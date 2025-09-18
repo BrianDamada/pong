@@ -1,0 +1,3 @@
+/home/briandamada/Documentos/code/C++/pong/build/CMakeFiles/pong.dir
+/home/briandamada/Documentos/code/C++/pong/build/CMakeFiles/edit_cache.dir
+/home/briandamada/Documentos/code/C++/pong/build/CMakeFiles/rebuild_cache.dir

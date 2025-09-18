@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/briandamada/Documentos/code/C++/pong/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/pong.dir/main.cpp.o -c /home/briandamada/Documentos/code/C++/pong/main.cpp",
+  "file": "/home/briandamada/Documentos/code/C++/pong/main.cpp",
+  "output": "CMakeFiles/pong.dir/main.cpp.o"
+}
+]
